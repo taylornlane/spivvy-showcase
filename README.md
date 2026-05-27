@@ -1,6 +1,6 @@
 # Spivvy
 
-A peer-to-peer marketplace for U.S. college students to **buy, sell, and rent** clothing from people at their own school. Hyper-local, .edu-verified, no shipping — just browse what your campus is selling or renting, message the seller, and meet up.
+A peer-to-peer marketplace for U.S. college students to **buy, sell, and rent** clothing from people at their own school. Hyper-local, .edu-verified, no shipping. Browse what your campus is selling or renting, message the seller, and meet up.
 
 **Built solo. Live on iOS and Android since March 2026. ~230 users and 200+ listings at the University of Michigan, with early traction at Grand Valley State University. 71.4% App Store conversion rate (vs. ~30% industry average).**
 
@@ -29,8 +29,18 @@ Spivvy is. Every listing is from someone at your school, every transaction is in
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/02-listings.png" width="200" alt="Browse listings" />
+  <img src="./screenshots/01-home.png" width="220" alt="Shop home with curated collections" />
+  <img src="./screenshots/02-school-select.png" width="220" alt="School selection at sign-up" />
+  <img src="./screenshots/03-listings.png" width="220" alt="Browse listings" />
 </p>
+
+<p align="center">
+  <img src="./screenshots/04-rental-detail.png" width="220" alt="Rental listing with per-day pricing" />
+  <img src="./screenshots/05-rental-availability.png" width="220" alt="Rental availability calendar" />
+  <img src="./screenshots/06-sustainability.png" width="220" alt="Per-user sustainability impact tracking" />
+</p>
+
+*Top row: shop home with campus-themed collections, .edu sign-up, browse view. Bottom row: rental listing showing per-day pricing and retail value, availability calendar with booked/available/past states, and the personal sustainability dashboard tracking carbon, water, landfill diversion, and packaging avoided.*
 
 ## Engineering challenges worth talking about
 

@@ -4,7 +4,7 @@ A peer-to-peer marketplace for U.S. college students to **buy, sell, and rent** 
 
 **Built solo. Live on iOS and Android since March 2026. ~230 users and 200+ listings at the University of Michigan, with early traction at Grand Valley State University. 71.4% App Store conversion rate (vs. ~30% industry average).**
 
-[App Store]([APP_STORE_URL](https://apps.apple.com/us/app/spivvy/id6759763491)) · [Play Store]([PLAY_STORE_URL](https://play.google.com/store/apps/details?id=com.taylorlane.spivvy)) · [spivvy.app](https://spivvy.app)
+[App Store](https://apps.apple.com/us/app/spivvy/id6759763491) · [Play Store](https://play.google.com/store/apps/details?id=com.taylorlane.spivvy) · [spivvy.app](https://spivvy.app)
 
 <p align="center">
   <img src="./screenshots/01-home.png" width="260" alt="Spivvy home feed" />
